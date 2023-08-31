@@ -10,4 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirzan89&show_icons=true&theme=tokyonight&bg_color=000000&locale=en&layout=compact" alt="amirzan89" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirzan89&show_icons=true&theme=radical&locale=en" alt="amirzan89" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirzan89&show_icons=true&theme=tokyonight&locale=en" alt="amirzan89" /></p>
