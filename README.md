@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amirzan Fikri</h1>
 <h3 align="center">A passionate Laravel developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirzan89" alt="amirzan89" /></a> </p>
-
 - 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Laravel, PHP and javascript**
