@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amirzan Fikri</h1>
 <h3 align="center">A passionate Laravel developer from Indonesia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirzan89&label=Profile%20views&color=a64dff&style=flat" alt="amirzan89" /> </p>
+
 - 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Laravel, PHP and javascript**
